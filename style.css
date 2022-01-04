@@ -33,3 +33,8 @@ border-radius: 10px;
     background-repeat: no-repeat;
 
 }
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
